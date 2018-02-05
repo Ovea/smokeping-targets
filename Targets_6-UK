@@ -1,0 +1,14 @@
+++ UK
+
+menu = UK
+title = Connectivite en UK
+
++++ Colt_UK
+menu = Colt UK (AS8220)
+title = Colt UK - AS8220 (213.86.91.141)
+host = 213.86.91.141
+
++++ Seven
+menu = Seven (AS19733) HS
+title = Seven = AS19733 (165.193.169.21)
+host = 165.193.169.21

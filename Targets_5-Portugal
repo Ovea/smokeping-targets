@@ -1,0 +1,9 @@
+++ Portugal
+
+menu = Portugal
+title = Portugal Connectivity
+
++++ PT_Comunicacoes
+menu = PT Comunicacoes (AS8657)
+title = PT Comunicacoes - AS8657 (ptprime3.cprm.net)
+host = ptprime3.cprm.net

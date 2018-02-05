@@ -1,0 +1,9 @@
+++ Maroc
+
+menu = Maroc
+title = Maroc Connectivity
+
++++ Maroc_Telecom
+menu = Maroc Telecom (AS6713)
+title = Maroc Telecom - AS6713 (dns3.iam.net.ma)
+host = 212.217.1.1

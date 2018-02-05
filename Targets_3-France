@@ -1,0 +1,209 @@
+++ France
+
+menu = France
+title = France Connectivity
+
++++ Absolight
+menu = Absolight (AS29608)
+title = Absolight - AS29608 (prod2.absolight.net)
+host = prod2.absolight.net
+
++++ Agarik
+menu = Agarik (AS16128)
+title = Agarik - AS16128 (ns2.agarik.com)
+host = 217.174.207.7
+
++++ Axione
+menu = Axione (AS31167)
+title = Axione - AS31167 (ns1.axione.fr)
+host = 217.119.179.50
+
++++ Alionis
+menu = Alionis (AS34997)
+title = Alionis - AS34997 (ns1.alionis.net)
+host = ns1.alionis.net
+
++++ Alphalink
+menu = Alphalink (AS25540)
+title = Alphalink - AS25540
+host = 217.15.80.163
+
++++ Altitude_Telecom
+menu = Altitude Telecom (AS9003) HS
+title = Altitude Telecom - AS9003 (www.altitudetelecom.fr)
+host = www.altitudetelecom.fr
+
++++ Azuria
+menu = Azuria (AS28877)
+title = Azuria - AS28877 (ns2.azuria.net)
+host = ns2.azuria.net
+
++++ BSO_Com
+menu = BSO Com (AS31216)
+title = BSO Com - AS31216 (www.bsocom.com)
+host = www.bsocom.com
+
++++ Claranet
+menu = Claranet (AS8426) HS
+title = Claranet - AS8426 (alsace.fr.clara.net)
+host = alsace.fr.clara.net
+
++++ Cogent_France
+menu = Cogent (AS174)
+title = Cogent - AS174 (130.117.112.138)
+host = 130.117.112.138
+
++++ Completel
+menu = Completel (AS12670)
+title = Completel - AS12670 (www.completel.fr)
+host = www.completel.fr
+
++++ Easynet
+menu = Easynet (AS4589)
+title = Easynet - AS4589 (ns.easynet.fr)
+host = ns.easynet.fr
+
++++ France_Telecom
+menu = France Telecom (AS3215)
+title = France Telecom - AS3215 (ns0.oleane.net)
+host = ns0.oleane.net
+
++++ Free_Telecom
+menu = Free Telecom (AS12322)
+title = Free Telecom - AS12322 (www.free.fr)
+host = www.free.fr
+
++++ Gandi
+menu = Gandi (AS29169)
+title = Gandi - AS29169 (www.gandi.net)
+host = www.gandi.net
+
++++ Google
+menu = google (AS15169)
+title = Google - AS15169 (www.google.fr)
+host = www.google.fr
+
++++ Google_Bot
+menu = google bot (AS15169)
+title = Google - AS15169 (www.google.fr)
+host = 66.249.76.150
+
++++ Ielo
+menu = Ielo (AS29075)
+title = Ielo - AS29075 (www.ielo.net)
+host = www.ielo.net
+
++++ Internet_Fr
+menu = Internet FR (AS8527)
+title = Internet FR - AS8527 (www.internet-fr.net)
+host = www.internet-fr.net
+
++++ Jaguar_Network
+menu = Jaguar Network (AS30781)
+title = Jaguar Network - AS30781 (www.as30781.net)
+host = www.as30781.net
+
++++ Jet_Multimedia
+menu = Jet Multimedia (AS12566)
+title = Jet Multimedia - AS12566 (ullinn.fast.jmsp.net)
+host = ullinn.fast.jmsp.net
+
++++ Kazar
+menu = Kazar (AS35189) HS
+title = Kazar - AS35189 (www.kazar.net)
+host = www.kazar.net
+
++++ Keyyo
+menu = Keyyo (AS35839)
+title = Keyyo - AS35839 (www.keyyo.com)
+host = 83.136.161.75
+
++++ LDCom_Networks
+menu = LDCom Networks (AS15557)
+title = LDCom Networks - AS15557 (relay1.gaoland.net)
+host = relay1.gaoland.net
+
++++ Level_3
+menu = Level 3 (AS3356)
+title = Level 3 - AS3356 (wan2many.level3.net)
+host = 212.73.204.197
+
++++ MCI_Worldcom
+menu = MCI Worldcom (AS702)
+title = MCI Worldcom - AS702 (ns1.nan2.fr.uu.net)
+host = ns1.nan2.fr.uu.net
+
++++ Multi_VISP
+menu = Multi VISP (AS34021)
+title = Multi VISP - AS34021 (ns1.multi-visp.net)
+host = ns1.multi-visp.net
+
++++ Nerim
+menu = Nerim (AS13193)
+title = Nerim - AS13193 (noemie.nerim.net)
+host = noemie.nerim.net
+
++++ Numericable
+menu = Numericable (AS21502)
+title = Numericable - AS21502 (ns1.numericable.fr)
+host = ns1.numericable.fr
+
++++ OVEA
+menu = OVEA EAI (AS29608)
+title = OVEA - AS29608 (www.ovea.com)
+host = www.ovea.com
+
++++ OVEA_TH2
+menu = OVEA TH2 (AS29608)
+title = OVEA TH2 - AS29608 (br1.th2.w2my.net)
+host = br1.th2.w2my.net
+
++++ OVH
+menu = OVH P19 (AS16276)
+title = OVH P19 - AS16276 (ping.ovh.net)
+host = ping.ovh.net
+
++++ Renater
+menu = Renater (AS2200)
+title = Renater - AS2200 (www.renater.fr)
+host = www.renater.fr
+
++++ Sewan
+menu = Sewan (AS196885)
+title = Sewan - AS196885 (www.sewan.fr)
+host = service.c2.sewan.fr
+
++++ SFR
+menu = SFR (AS29372)
+title = SFR - AS196885 (www.sfr.fr)
+host = www.sfr.fr
+
++++ Skiwebcenter
+menu = Skiwebcenter (AS31235)
+title = Skiwebcenter - AS31235 (www.skiwebcenter.com)
+host = www.skiwebcenter.com
+
++++ Syloe
+menu = Syloe (c/o AS8218)
+title = Syloe (c/o AS8218) (ns1.syloe.com)
+host = ns1.syloe.com
+
++++ Tata_Communications
+menu = Tata Communications (AS6453) HS
+title = Tata Communications - AS6453 (if-0-0-0-167.core1.PYE-Paris.as6453.net)
+host = if-0-0-0-167.core1.PYE-Paris.as6453.net
+
++++ Teaser
+menu = Teaser (AS13273)
+title = Teaser - AS13273 (www.teaser.fr)
+host = www.teaser.fr
+
++++ VIF
+menu = VIF (c/o AS15557)
+title = VIF - c/o AS15557
+host = 62.39.140.214
+
++++ Witbe
+menu = Witbe (AS15436)
+title = Witbe - AS15436 (www.witbe.net)
+host = www.witbe.net
